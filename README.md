@@ -15,3 +15,4 @@ As a form of conclusion:
 - H2 1.4.197 has a huge performance drop vs H2 1.4.196
 - H2 1.4.198 and 1.4.199 have partially recovered, but their performance is still bad compared to H2 1.4.196
 
+![alt text](https://raw.githubusercontent.com/cmichon/h2lander/master/h2percentiles.png)
